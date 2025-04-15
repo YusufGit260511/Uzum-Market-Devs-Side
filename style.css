@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+input{
+    width: 200px;
+}
+button{
+    width: 100px;
+    color: white;
+}
+textarea{
+    width: 200px;
+    height: 100px;
+}
+#submitBtn{
+    background-color: green;
+}
+#deleteBtn{
+    background-color: red;
+}
